@@ -88,7 +88,11 @@ function Options() {
             <a rel="noreferrer" target="_blank" href="https://genius.com">
               <Text color="#ffe603">Powered by Genius</Text>
             </a>
-            <a rel="noreferrer" target="_blank" href="https://genius.com">
+            <a
+              rel="noreferrer"
+              target="_blank"
+              href="https://github.com/ize-302/lyrics-ext"
+            >
               <Text color="#fff">Source code</Text>
             </a>
           </HStack>
